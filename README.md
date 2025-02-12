@@ -1,7 +1,7 @@
 ## hi :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssongab&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssongab&layout=compact&langs_count=8&theme=dark)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssongab&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssongab&layout=compact&langs_count=8&theme=dark)
 <!--
 **alyssongab/alyssongab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
