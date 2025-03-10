@@ -1,5 +1,5 @@
 ## Sobre Mim 🤓
-- 🚀 Desenvolvedor [Front-end/Back-end/Full-stack] apaixonado por tecnologia.
+- 🚀 Desenvolvedor Full-Stack
 - 🌱 Atualmente aprendendo NextJS, Express.
 - 💼 Trabalhando em: Nuvio Soluções em Tecnologia.
 - 📫 E-mail para contato: [alysson.gabriel61@gmail.com](alysson.gabriel61@gmail.com).
