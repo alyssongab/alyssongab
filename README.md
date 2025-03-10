@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssongab&layout=compact&langs_count=8&theme=dark)
 
 ## Conexões 🛜
-- [LinkedIn](linkedin.com/in/alyssongab)
+- [LinkedIn](https://linkedin.com/in/alyssongab)
 
 
 
