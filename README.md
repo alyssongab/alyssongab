@@ -5,9 +5,9 @@
 - 📫 E-mail para contato: [alysson.gabriel61@gmail.com](alysson.gabriel61@gmail.com).
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Javascript, C
+- **Linguagens:** Java, PHP, Javascript/Node, C
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** React, Node.js, Springboot, Bootstrap, Tailwind
+- **Frameworks e Libs:** React, Springboot, Bootstrap, Tailwind
 - **Ferramentas:** VSCode, IntelliJ, Xampp, Dbeaver
 
 ## Principais projetos 🚀
