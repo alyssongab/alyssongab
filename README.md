@@ -1,13 +1,13 @@
-## Sobre Mim 🤓
+## Sobre Mim 
 - 🚀 Desenvolvedor Full-Stack
-- 🌱 Atualmente aprendendo NextJS, Express.
+- 🌱 Atualmente aprendendo React/NextJS, Express, Python.
 - 💼 Trabalhando em: Nuvio Soluções em Tecnologia.
 - 📫 E-mail para contato: [alysson.gabriel61@gmail.com](alysson.gabriel61@gmail.com).
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** React, Springboot, Bootstrap, Tailwind
+- **Frameworks e Libs:** Springboot, Bootstrap, Tailwind
 - **Ferramentas:** VSCode, IntelliJ, Xampp, Dbeaver
 
 ## Principais projetos 🚀
