@@ -7,8 +7,9 @@
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** Express, Bootstrap, Tailwind
+- **Frameworks e Libs:** Express, Bootstrap, Tailwind, Syncfusion
 - **Ferramentas:** VSCode, IntelliJ, Xampp, DBeaver
+- **Sistema Operacional:** Windows, Linux (Fedora)
 
 ## Principais projetos 🚀
 - [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP puro + Bootstrap.
