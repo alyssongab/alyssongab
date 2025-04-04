@@ -2,7 +2,6 @@
 - 🚀 Desenvolvedor Full-Stack
 - 🌱 Atualmente aprendendo React/NextJS e Python.
 - 💼 Trabalhando em: Nuvio Soluções em Tecnologia.
-- 📫 E-mail para contato: [alysson.gabriel61@gmail.com](alysson.gabriel61@gmail.com).
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C
@@ -19,8 +18,13 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alyssongab&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssongab&layout=compact&langs_count=8&theme=dark)
 
-## Conexões 🛜
-- [LinkedIn](https://linkedin.com/in/alyssongab)
+## Contato 📩
+<a href="mailto:alysson.gabriel61@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/alyssongab/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 
