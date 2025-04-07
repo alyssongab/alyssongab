@@ -1,6 +1,6 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Full-Stack
-- 🌱 Atualmente aprendendo React/NextJS e Python.
+- 🌱 Atualmente aprendendo NextJS e Python.
 - 💼 Trabalhando em: Nuvio Soluções em Tecnologia.
 
 ## Tecnologias e Ferramentas 💻
@@ -11,8 +11,9 @@
 - **Sistema Operacional:** Windows, Linux (Fedora)
 
 ## Principais projetos 🚀
-- [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP puro + Bootstrap.
+- [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP + Bootstrap.
 - [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP.
+- [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
 
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alyssongab&show_icons=true&theme=dark)
