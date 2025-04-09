@@ -1,7 +1,7 @@
 ## Sobre Mim 
-- 🚀 Desenvolvedor Full-Stack
-- 🌱 Atualmente aprendendo NextJS e Python.
-- 💼 Trabalhando em: Nuvio Soluções em Tecnologia.
+- 🚀 Desenvolvedor Web Full-Stack
+- 🌱 Atualmente aprendendo Docker e Python.
+- 💼 Nuvio Soluções em Tecnologia.
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C
