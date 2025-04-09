@@ -14,6 +14,7 @@
 - [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP + Bootstrap.
 - [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP.
 - [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
+- [Todo - Desafio](https://github.com/alyssongab/desafiotodo) - Sistema de gerenciamento de tarefas fullstack (React + Express)
 
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alyssongab&show_icons=true&theme=dark)
