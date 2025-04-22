@@ -24,7 +24,7 @@
 <a href="mailto:alysson.gabriel61@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/alyssongabdev/" target="_blank">
+<a href="https://www.linkedin.com/in/alyssongab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
