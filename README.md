@@ -1,6 +1,6 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
-- 🌱 Atualmente aprendendo Docker e Python.
+- 🌱 Atualmente aprendendo Docker e Laravel.
 - 💼 Nuvio Soluções em Tecnologia.
 
 ## Tecnologias e Ferramentas 💻
