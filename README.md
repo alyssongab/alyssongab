@@ -1,12 +1,11 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
 - 🌱 Atualmente aprendendo Docker e Laravel.
-- 💼 Nuvio Soluções em Tecnologia.
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** Express, Bootstrap, Tailwind, Syncfusion
+- **Frameworks e Libs:** Express, Bootstrap, NextJS, Tailwind, Syncfusion
 - **Ferramentas:** VSCode, IntelliJ, Xampp, DBeaver
 - **Sistema Operacional:** Windows, Linux (Fedora)
 
