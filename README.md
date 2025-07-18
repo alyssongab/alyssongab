@@ -1,11 +1,11 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
-- 🌱 Atualmente aprendendo Docker e Laravel.
+- 🌱 Atualmente aprendendo Docker e Testes unitários.
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Javascript/Node, C
+- **Linguagens:** Java, PHP, Javascript/Node, C, Python
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** Express, Bootstrap, NextJS, Tailwind, Syncfusion
+- **Frameworks e Libs:** Spring boot, Express, Bootstrap, NextJS, Tailwind, Syncfusion
 - **Ferramentas:** VSCode, IntelliJ, Xampp, DBeaver
 - **Sistema Operacional:** Windows, Linux (Fedora)
 
