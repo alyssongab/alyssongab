@@ -5,8 +5,8 @@
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C, Python
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** Spring boot, Express, Bootstrap, NextJS, Tailwind, Syncfusion
-- **Ferramentas:** VSCode, IntelliJ, Xampp, DBeaver
+- **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Bootstrap, NextJS, Tailwind, Syncfusion
+- **Ferramentas:** VSCode, IntelliJ, Xampp, DBeaver, HeidiSQL
 - **Sistema Operacional:** Windows, Linux (Fedora)
 
 ## Principais projetos 🚀
