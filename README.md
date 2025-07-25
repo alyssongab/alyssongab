@@ -1,6 +1,6 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
-- 🌱 Atualmente aprendendo Docker e Testes unitários.
+- 🌱 Atualmente aprendendo RabbitMQ.
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript/Node, C, Python
