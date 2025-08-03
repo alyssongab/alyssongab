@@ -3,7 +3,7 @@
 - 🌱 Atualmente aprendendo RabbitMQ.
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Typescript, C, Python
+- **Linguagens:** Java, PHP, Javascript, C, Python
 - **Banco de dados:** MySQL, PostgreSQL
 - **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Bootstrap, Next.js, Tailwind, Syncfusion
 - **Boas práticas:** Padrões de projeto, Arquitetura em camadas, SOLID.
