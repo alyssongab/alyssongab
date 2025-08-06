@@ -1,6 +1,6 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
-- 🌱 Atualmente aprendendo RabbitMQ.
+- 🌱 Atualmente aprendendo Android com Kotlin
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Javascript, C, Python
