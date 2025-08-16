@@ -3,9 +3,9 @@
 - 🌱 Atualmente aprendendo Android com Kotlin
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Javascript, C, Python
+- **Linguagens:** Java, PHP, Typescript, C, Python
 - **Banco de dados:** MySQL, PostgreSQL
-- **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Bootstrap, Next.js, Tailwind, Syncfusion
+- **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Next.js
 - **Boas práticas:** Padrões de projeto, Arquitetura em camadas, SOLID.
 - **Sistema Operacional:** Windows, Linux
 
