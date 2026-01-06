@@ -1,6 +1,5 @@
 ## Sobre Mim 
 - 🚀 Desenvolvedor Web Full-Stack
-- 🌱 Atualmente aprendendo Android com Kotlin
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, PHP, Typescript, C, Python
