@@ -2,8 +2,8 @@
 - 🚀 Desenvolvedor Web Full-Stack
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Typescript, C, Python
-- **Banco de dados:** MySQL, PostgreSQL
+- **Linguagens:** Java, PHP, Typescript, C,
+- **Banco de dados:** MySQL, PostgreSQL, MongoDB
 - **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Next.js
 - **Boas práticas:** Padrões de projeto, Arquitetura em camadas, SOLID.
 - **Sistema Operacional:** Windows, Linux
@@ -15,9 +15,6 @@
 - [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
 - [Broka](https://github.com/alyssongab/broka-api) - API do Sistema de delivery broka, utilizando Spring, RabbitMQ e Docker
 
-## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alyssongab&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssongab&layout=compact&langs_count=8&theme=dark)
 
 ## Contato 📩
 <a href="mailto:alysson.gabriel61@gmail.com" target="_blank">
