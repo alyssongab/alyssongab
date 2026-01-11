@@ -2,11 +2,11 @@
 - 🚀 Desenvolvedor Web Full-Stack
 
 ## Tecnologias e Ferramentas 💻
-- **Linguagens:** Java, PHP, Typescript, C,
+- **Linguagens:** Java, Javascript, PHP
 - **Banco de dados:** MySQL, PostgreSQL, MongoDB
+- **ORMs:** Prisma, Sequelize, Hibernate
 - **Frameworks e Libs:** SpringBoot, React, JavaFX, Express, Next.js
-- **Boas práticas:** Padrões de projeto, Arquitetura em camadas, SOLID.
-- **Sistema Operacional:** Windows, Linux
+- **Boas práticas** Padrões de projeto, Arquitetura em camadas, SOLID.
 
 ## Principais projetos 🚀
 - [Barbearia Santos](https://github.com/alyssongab/barbershop) - Sistema de barbearia com gerenciamento de usuários, serviços e agendamentos em Spring boot + Next.js
