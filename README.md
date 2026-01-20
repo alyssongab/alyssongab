@@ -9,7 +9,7 @@
 - **Boas práticas** Padrões de projeto, Arquitetura em camadas, SOLID.
 
 ## Principais projetos 🚀
-- [Artbarber](https://github.com/alyssongab/artbarber) - Sistema web de barbearia com auto-agendamento, notificações por whatsapp e gerenciamento de usuários.
+- [Artbarber](https://github.com/alyssongab/artbarber) - Sistema para barbearia com notificações automáticas por whatsapp usando Typescript (React + Express)
 - [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP + Bootstrap.
 - [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP.
 - [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
