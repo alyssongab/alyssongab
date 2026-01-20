@@ -10,10 +10,10 @@
 
 ## Principais projetos 🚀
 - [Artbarber](https://github.com/alyssongab/artbarber) - Sistema para barbearia com notificações automáticas por whatsapp usando Typescript (React + Express)
-- [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP + Bootstrap.
-- [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP.
-- [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
-- [Broka](https://github.com/alyssongab/broka-api) - API do Sistema de delivery broka, utilizando Spring, RabbitMQ e Docker
+- [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas feito em PHP puro + Javascript + Bootstrap
+- [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP/Servlets.
+- [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop feito em React e Tailwind.
+- [Broka](https://github.com/alyssongab/broka-api) - API de Sistema de delivery com Java (Spring Boot), RabbitMQ, PostgreSQL e Docker,
 
 
 ## Contato 📩
