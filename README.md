@@ -1,5 +1,5 @@
 ## Sobre Mim 
-- 🚀 Desenvolvedor Web Full-Stack
+- 🚀 Desenvolvedor Full-Stack e Graduando no Instituto Federal do Amazonas 
 
 ## Tecnologias e Ferramentas 💻
 - **Linguagens:** Java, Javascript, PHP
@@ -9,7 +9,7 @@
 - **Boas práticas** Padrões de projeto, Arquitetura em camadas, SOLID.
 
 ## Principais projetos 🚀
-- [Barbearia Santos](https://github.com/alyssongab/barbershop) - Sistema de barbearia com gerenciamento de usuários, serviços e agendamentos em Spring boot + Next.js
+- [Artbarber](https://github.com/alyssongab/artbarber) - Sistema web de barbearia com auto-agendamento, notificações por whatsapp e gerenciamento de usuários.
 - [VPlus](https://github.com/alyssongab/vendaplus) - Sistema para gestão de vendas utilizando PHP + Bootstrap.
 - [Managefy](https://github.com/alyssongab/managefy) - Sistema de gerenciamento de equipamentos, utilizando Java e JSP.
 - [Petjoy](https://github.com/alyssongab/petjoy) - Landing page para petshop (fictício) com React + Tailwind CSS
